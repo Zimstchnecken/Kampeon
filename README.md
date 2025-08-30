@@ -10,5 +10,6 @@ Getting Started:
 
 To run the project, ensure you have the Godot Engine installed. Open the project in Godot and start the game from the main scene.
 
-Authors
-This project was created by Matrix (BSIT-2K).
+Authors:
+
+This project was created by Group: Matrix (BSIT-2K).
