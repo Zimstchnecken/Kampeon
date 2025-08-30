@@ -13,3 +13,10 @@ To run the project, ensure you have the Godot Engine installed. Open the project
 Authors:
 
 This project was created by Group: Matrix (BSIT-2K).
+Mc Grady Ameer Andres
+Ethan Llemos
+Alyssa Gal
+Jerome Gualva
+Rainner Guianan
+Nash Daniel Parungao
+
