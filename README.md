@@ -6,7 +6,8 @@ Immersive adventure story
 Interactive gameplay elements
 Developed with GDScript
 
-Getting Started
+Getting Started:
+
 To run the project, ensure you have the Godot Engine installed. Open the project in Godot and start the game from the main scene.
 
 Authors
