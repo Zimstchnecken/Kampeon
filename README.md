@@ -32,6 +32,3 @@ This project was developed by Group Matrix (BSIT-2K):
 
 This project was developed as a course requirement and focuses on core functionality rather than advanced design.
 
-
-* a demo GIF
-* or a minimal badge header (still non-cringey)
